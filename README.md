@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](https://lh3.googleusercontent.com/gg-dl/ABS2GSnK4Q4o1AHrW-BwJm6t1j9yaFCuHgYGIrdqSFdKSIoC3RT5QvsxroH8cRVU4gAe-0t_RLX7yz4DPB4icoQYnB7sRCS7BPTkNM8DvHcSmthdl0aukqcz8CXP6SyGqgT0vt55qDW4G47qXZN8IMdt3LwWynPfG8pbrI-rVtyT440H0tfOPw=s1024-rj)
+![Banner](https://github.com/balach124/balach124/blob/main/1.png?raw=true)
 
 ---
 
